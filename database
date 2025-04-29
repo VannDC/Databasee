@@ -1,6 +1,12 @@
 {
-  "number": [
-    "6285198153294",
-    "6288276746473"
+  "users": [
+    {
+      "number": "6288276746473",
+      "password": "vanzdev"
+    },
+    {
+      "number": "6285198153294",
+      "password": "sannowner"
+    }
   ]
 }
